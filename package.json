@@ -1,0 +1,34 @@
+{
+  "name": "osi-license-checker",
+  "version": "1.0.0",
+  "description": "Checks whether a license is OSI-approved",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filiptronicek/parse-czech-phone-number.git"
+  },
+  "author": "Filip Troníček",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filiptronicek/parse-czech-phone-number/issues"
+  },
+  "homepage": "https://github.com/filiptronicek/parse-czech-phone-number#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "@types/request-promise": "^4.1.48",
+    "@types/validator": "^13.7.0",
+    "cheerio": "^1.0.0-rc.10",
+    "jest": "^27.3.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {}
+}
