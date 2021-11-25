@@ -1,5 +1,5 @@
 import rp from "request-promise";
-import {writeFile} from "fs";
+import { writeFile } from "fs";
 import $, { BasicAcceptedElems, Node } from "cheerio";
 const url = "https://opensource.org/licenses/alphabetical";
 
