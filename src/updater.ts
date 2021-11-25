@@ -1,5 +1,5 @@
 import rp from "request-promise";
-import fs from "fs";
+import {writeFile} from "fs";
 import $, { BasicAcceptedElems, Node } from "cheerio";
 const url = "https://opensource.org/licenses/alphabetical";
 
@@ -20,7 +20,7 @@ rp(url).then((html: BasicAcceptedElems<Node>) => {
 
     licenses.push({ fullName, id: shortHand });
   }
-  fs.writeFile(
+  writeFile(
     "src/resources/licenses.json",
     JSON.stringify(licenses, null, 2),
     (err) => {
