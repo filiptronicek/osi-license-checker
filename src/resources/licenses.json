@@ -1,55 +1,55 @@
 [
   {
     "fullName": "0-clause BSD License",
-    "id": "(0BSD)"
+    "id": "0BSD"
   },
   {
     "fullName": "1-clause BSD License",
-    "id": "(BSD-1-Clause)"
+    "id": "BSD-1-Clause"
   },
   {
     "fullName": "2-clause BSD License",
-    "id": "(BSD-2-Clause)"
+    "id": "BSD-2-Clause"
   },
   {
     "fullName": "3-clause BSD License",
-    "id": "(BSD-3-Clause)"
+    "id": "BSD-3-Clause"
   },
   {
     "fullName": "Academic Free License 3.0",
-    "id": "(AFL-3.0)"
+    "id": "AFL-3.0"
   },
   {
     "fullName": "Adaptive Public License",
-    "id": "(APL-1.0)"
+    "id": "APL-1.0"
   },
   {
     "fullName": "Apache Software License 1.1",
-    "id": "(Apache-1.1)"
+    "id": "Apache-1.1"
   },
   {
     "fullName": "Apache License 2.0",
-    "id": "(Apache-2.0)"
+    "id": "Apache-2.0"
   },
   {
     "fullName": "Apple Public Source License",
-    "id": "(APSL-2.0)"
+    "id": "APSL-2.0"
   },
   {
     "fullName": "Artistic license 1.0",
-    "id": "(Artistic-1.0)"
+    "id": "Artistic-1.0"
   },
   {
     "fullName": "Artistic License 2.0",
-    "id": "(Artistic-2.0)"
+    "id": "Artistic-2.0"
   },
   {
     "fullName": "Attribution Assurance License",
-    "id": "(AAL)"
+    "id": "AAL"
   },
   {
     "fullName": "Boost Software License",
-    "id": "(BSL-1.0)"
+    "id": "BSL-1.0"
   },
   {
     "fullName": "3-clause BSD License2-clause BSD License1-clause BSD License0-clause BSD licenseBSD-3-Clause-LBNL",
@@ -57,7 +57,7 @@
   },
   {
     "fullName": "BSD+Patent",
-    "id": "(BSD-2-Clause-Patent)"
+    "id": "BSD-2-Clause-Patent"
   },
   {
     "fullName": "CERN Open Hardware Licence Version 2 - Permissive",
@@ -73,123 +73,123 @@
   },
   {
     "fullName": "CeCILL License 2.1",
-    "id": "(CECILL-2.1)"
+    "id": "CECILL-2.1"
   },
   {
     "fullName": "Common Development and Distribution License 1.0",
-    "id": "(CDDL-1.0)"
+    "id": "CDDL-1.0"
   },
   {
     "fullName": "Common Public Attribution License 1.0",
-    "id": "(CPAL-1.0)"
+    "id": "CPAL-1.0"
   },
   {
     "fullName": "Common Public License 1.0",
-    "id": "(CPL-1.0)"
+    "id": "CPL-1.0"
   },
   {
     "fullName": "Computer Associates Trusted Open Source License 1.1",
-    "id": "(CATOSL-1.1)"
+    "id": "CATOSL-1.1"
   },
   {
     "fullName": "Cryptographic Autonomy License v.1.0",
-    "id": "(CAL-1.0)"
+    "id": "CAL-1.0"
   },
   {
     "fullName": "CUA Office Public License Version 1.0",
-    "id": "(CUA-OPL-1.0)"
+    "id": "CUA-OPL-1.0"
   },
   {
     "fullName": "Eclipse Public License 1.0",
-    "id": "(EPL-1.0)"
+    "id": "EPL-1.0"
   },
   {
     "fullName": "Eclipse Public License 2.0",
-    "id": "(EPL-2.0)"
+    "id": "EPL-2.0"
   },
   {
     "fullName": "eCos License version 2.0",
-    "id": "(eCos-2.0)"
+    "id": "eCos-2.0"
   },
   {
     "fullName": "Educational Community License, Version 1.0",
-    "id": "(ECL-1.0)"
+    "id": "ECL-1.0"
   },
   {
     "fullName": "Educational Community License, Version 2.0",
-    "id": "(ECL-2.0)"
+    "id": "ECL-2.0"
   },
   {
     "fullName": "Eiffel Forum License V1.0",
-    "id": "(EFL-1.0)"
+    "id": "EFL-1.0"
   },
   {
     "fullName": "Eiffel Forum License V2.0",
-    "id": "(EFL-2.0)"
+    "id": "EFL-2.0"
   },
   {
     "fullName": "Entessa Public License",
-    "id": "(Entessa)"
+    "id": "Entessa"
   },
   {
     "fullName": "EU DataGrid Software License",
-    "id": "(EUDatagrid)"
+    "id": "EUDatagrid"
   },
   {
     "fullName": "European Union Public License 1.2",
-    "id": "(EUPL-1.2)"
+    "id": "EUPL-1.2"
   },
   {
     "fullName": "Fair License",
-    "id": "(Fair)"
+    "id": "Fair"
   },
   {
     "fullName": "Frameworx License",
-    "id": "(Frameworx-1.0)"
+    "id": "Frameworx-1.0"
   },
   {
     "fullName": "Free Public License 1.0.0",
-    "id": "(0BSD)"
+    "id": "0BSD"
   },
   {
     "fullName": "GNU Affero General Public License version 3",
-    "id": "(AGPL-3.0)"
+    "id": "AGPL-3.0"
   },
   {
     "fullName": "GNU General Public License version 2",
-    "id": "(GPL-2.0)"
+    "id": "GPL-2.0"
   },
   {
     "fullName": "GNU General Public License version 3",
-    "id": "(GPL-3.0)"
+    "id": "GPL-3.0"
   },
   {
     "fullName": "GNU Lesser General Public License version 2.1",
-    "id": "(LGPL-2.1)"
+    "id": "LGPL-2.1"
   },
   {
     "fullName": "GNU Lesser General Public License version 3",
-    "id": "(LGPL-3.0)"
+    "id": "LGPL-3.0"
   },
   {
     "fullName": "Historical Permission Notice and Disclaimer",
-    "id": "(HPND)"
+    "id": "HPND"
   },
   {
     "fullName": "IBM Public License 1.0",
-    "id": "(IPL-1.0)"
+    "id": "IPL-1.0"
   },
   {
     "fullName": "Intel Open Source License",
-    "id": "(Intel)"
+    "id": "Intel"
   },
   {
     "fullName": "IPA Font License",
-    "id": "(IPA)"
+    "id": "IPA"
   },
   {
     "fullName": "ISC License",
-    "id": "(ISC)"
+    "id": "ISC"
   },
   {
     "fullName": "Jabber Open Source License",
@@ -197,127 +197,127 @@
   },
   {
     "fullName": "LaTeX Project Public License 1.3c",
-    "id": "(LPPL-1.3c)"
+    "id": "LPPL-1.3c"
   },
   {
     "fullName": "Lawrence Berkeley National Labs BSD Variant License",
-    "id": "(BSD-3-Clause-LBNL)"
+    "id": "BSD-3-Clause-LBNL"
   },
   {
     "fullName": "Licence Libre du Québec – Permissive",
-    "id": "(LiLiQ-P) version 1.1 (LiliQ-P)"
+    "id": "LiLiQ-P version 1.1 (LiliQ-P)"
   },
   {
     "fullName": "Licence Libre du Québec – Réciprocité",
-    "id": "(LiLiQ-R) version 1.1 (LiliQ-R)"
+    "id": "LiLiQ-R version 1.1 (LiliQ-R)"
   },
   {
     "fullName": "Licence Libre du Québec – Réciprocité forte",
-    "id": "(LiLiQ-R+) version 1.1 (LiliQ-R+)"
+    "id": "LiLiQ-R+ version 1.1 (LiliQ-R+)"
   },
   {
     "fullName": "Lucent Public License",
-    "id": "(\"Plan9\"), version 1.0 (LPL-1.0)"
+    "id": "\"Plan9\", version 1.0 (LPL-1.0)"
   },
   {
     "fullName": "Lucent Public License Version 1.02",
-    "id": "(LPL-1.02)"
+    "id": "LPL-1.02"
   },
   {
     "fullName": "Microsoft Public License",
-    "id": "(MS-PL)"
+    "id": "MS-PL"
   },
   {
     "fullName": "Microsoft Reciprocal License",
-    "id": "(MS-RL)"
+    "id": "MS-RL"
   },
   {
     "fullName": "MirOS Licence",
-    "id": "(MirOS)"
+    "id": "MirOS"
   },
   {
     "fullName": "MIT License",
-    "id": "(MIT)"
+    "id": "MIT"
   },
   {
     "fullName": "MIT No Attribution License",
-    "id": "(MIT-0)"
+    "id": "MIT-0"
   },
   {
     "fullName": "MITRE Collaborative Virtual Workspace License",
-    "id": "(CVW)"
+    "id": "CVW"
   },
   {
     "fullName": "Motosoto License",
-    "id": "(Motosoto)"
+    "id": "Motosoto"
   },
   {
     "fullName": "Mozilla Public License 1.0",
-    "id": "(MPL-1.0)"
+    "id": "MPL-1.0"
   },
   {
     "fullName": "Mozilla Public License 1.1",
-    "id": "(MPL-1.1)"
+    "id": "MPL-1.1"
   },
   {
     "fullName": "Mozilla Public License 2.0",
-    "id": "(MPL-2.0)"
+    "id": "MPL-2.0"
   },
   {
     "fullName": "Mulan Permissive Software License v2",
-    "id": "(MulanPSL - 2.0)"
+    "id": "MulanPSL - 2.0"
   },
   {
     "fullName": "Multics License",
-    "id": "(Multics)"
+    "id": "Multics"
   },
   {
     "fullName": "NASA Open Source Agreement 1.3",
-    "id": "(NASA-1.3)"
+    "id": "NASA-1.3"
   },
   {
     "fullName": "Naumen Public License",
-    "id": "(Naumen)"
+    "id": "Naumen"
   },
   {
     "fullName": "Nethack General Public License",
-    "id": "(NGPL)"
+    "id": "NGPL"
   },
   {
     "fullName": "Nokia Open Source License",
-    "id": "(Nokia)"
+    "id": "Nokia"
   },
   {
     "fullName": "Non-Profit Open Software License 3.0",
-    "id": "(NPOSL-3.0)"
+    "id": "NPOSL-3.0"
   },
   {
     "fullName": "NTP License",
-    "id": "(NTP)"
+    "id": "NTP"
   },
   {
     "fullName": "OCLC Research Public License 2.0",
-    "id": "(OCLC-2.0)"
+    "id": "OCLC-2.0"
   },
   {
     "fullName": "Open Group Test Suite License",
-    "id": "(OGTSL)"
+    "id": "OGTSL"
   },
   {
     "fullName": "Open Software License 1.0",
-    "id": "(OSL-1.0)"
+    "id": "OSL-1.0"
   },
   {
     "fullName": "Open Software License 2.1",
-    "id": "(OSL-2.1)"
+    "id": "OSL-2.1"
   },
   {
     "fullName": "Open Software License 3.0",
-    "id": "(OSL-3.0)"
+    "id": "OSL-3.0"
   },
   {
     "fullName": "OpenLDAP Public License Version 2.8",
-    "id": "(OLDAP-2.8)"
+    "id": "OLDAP-2.8"
   },
   {
     "fullName": "OSET Public License version 2.1",
@@ -325,75 +325,75 @@
   },
   {
     "fullName": "PHP License 3.0",
-    "id": "(PHP-3.0)"
+    "id": "PHP-3.0"
   },
   {
     "fullName": "PHP License 3.01",
-    "id": "(PHP-3.01)"
+    "id": "PHP-3.01"
   },
   {
     "fullName": "The PostgreSQL License",
-    "id": "(PostgreSQL)"
+    "id": "PostgreSQL"
   },
   {
     "fullName": "Python License",
-    "id": "(Python-2.0)"
+    "id": "Python-2.0"
   },
   {
     "fullName": "CNRI Python license",
-    "id": "(CNRI-Python)"
+    "id": "CNRI-Python"
   },
   {
     "fullName": "Q Public License",
-    "id": "(QPL-1.0)"
+    "id": "QPL-1.0"
   },
   {
     "fullName": "RealNetworks Public Source License V1.0",
-    "id": "(RPSL-1.0)"
+    "id": "RPSL-1.0"
   },
   {
     "fullName": "Reciprocal Public License, version 1.1",
-    "id": "(RPL-1.1)"
+    "id": "RPL-1.1"
   },
   {
     "fullName": "Reciprocal Public License 1.5",
-    "id": "(RPL-1.5)"
+    "id": "RPL-1.5"
   },
   {
     "fullName": "Ricoh Source Code Public License",
-    "id": "(RSCPL)"
+    "id": "RSCPL"
   },
   {
     "fullName": "SIL Open Font License 1.1",
-    "id": "(OFL-1.1)"
+    "id": "OFL-1.1"
   },
   {
     "fullName": "Simple Public License 2.0",
-    "id": "(SimPL-2.0)"
+    "id": "SimPL-2.0"
   },
   {
     "fullName": "Sleepycat License",
-    "id": "(Sleepycat)"
+    "id": "Sleepycat"
   },
   {
     "fullName": "Sun Industry Standards Source License",
-    "id": "(SISSL)"
+    "id": "SISSL"
   },
   {
     "fullName": "Sun Public License 1.0",
-    "id": "(SPL-1.0)"
+    "id": "SPL-1.0"
   },
   {
     "fullName": "Sybase Open Watcom Public License 1.0",
-    "id": "(Watcom-1.0)"
+    "id": "Watcom-1.0"
   },
   {
     "fullName": "Universal Permissive License",
-    "id": "(UPL)"
+    "id": "UPL"
   },
   {
     "fullName": "University of Illinois/NCSA Open Source License",
-    "id": "(NCSA)"
+    "id": "NCSA"
   },
   {
     "fullName": "Upstream Compatibility License v1.0",
@@ -409,34 +409,34 @@
   },
   {
     "fullName": "Vovida Software License v. 1.0",
-    "id": "(VSL-1.0)"
+    "id": "VSL-1.0"
   },
   {
     "fullName": "W3C License",
-    "id": "(W3C)"
+    "id": "W3C"
   },
   {
     "fullName": "wxWindows Library License",
-    "id": "(WXwindows)"
+    "id": "WXwindows"
   },
   {
     "fullName": "X.Net License",
-    "id": "(Xnet)"
+    "id": "Xnet"
   },
   {
     "fullName": "Zero-Clause BSD",
-    "id": "(0BSD)"
+    "id": "0BSD"
   },
   {
     "fullName": "Zope Public License 2.0",
-    "id": "(ZPL-2.0)"
+    "id": "ZPL-2.0"
   },
   {
     "fullName": "Zope Public License 2.1",
-    "id": "(ZPL-2.1)"
+    "id": "ZPL-2.1"
   },
   {
     "fullName": "zlib/libpng license",
-    "id": "(Zlib)"
+    "id": "Zlib"
   }
 ]
