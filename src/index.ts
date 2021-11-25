@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 const licenseData: License[] = JSON.parse(fs.readFileSync('./src/resources/licenses.json', 'utf8'));
 
