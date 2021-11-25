@@ -3,11 +3,12 @@ import fs from 'fs';
 const licenseData: License[] = JSON.parse(fs.readFileSync('./src/resources/licenses.json', 'utf8'));
 
 export const checkShorthand = (askedFor: string) => {
-    const queriedLicense = licenseData.find((license) => askedFor === license.id)
+    if (askedFor === "") return false;
+    const queriedLicense = licenseData.find((license) => askedFor === license.id);
     return !!queriedLicense;
 }
 
 export const checkFullName = (askedFor: string) => {
-    const queriedLicense = licenseData.find((license) => askedFor === license.id)
+    const queriedLicense = licenseData.find((license) => askedFor === license.fullName);
     return !!queriedLicense;
 }
