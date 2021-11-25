@@ -1,6 +1,6 @@
 {
   "name": "osi-license-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks whether a license is OSI-approved",
   "main": "dist/index.js",
   "scripts": {
