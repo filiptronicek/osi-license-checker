@@ -20,15 +20,14 @@
   "homepage": "https://github.com/filiptronicek/osi-license-checker#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
-    "@types/request-promise": "^4.1.48",
-    "@types/validator": "^13.7.0",
     "cheerio": "^1.0.0-rc.10",
     "jest": "^27.3.1",
-    "request": "^2.88.2",
-    "request-promise": "^4.2.6",
+    "node-fetch": "2.6.6",
     "ts-jest": "^27.0.7",
     "ts-node": "^10.4.0",
     "typescript": "^4.4.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@types/node-fetch": "^2.5.12"
+  }
 }
