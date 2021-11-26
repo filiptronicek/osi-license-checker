@@ -17,8 +17,9 @@ rp(url).then((html: BasicAcceptedElems<Node>) => {
       .trim()
       .replace("(", "")
       .replace(")", "");
+    const moreInfo = currentAnchor.attr('href');
 
-    licenses.push({ name, id: shortHand || undefined });
+    licenses.push({ name, id: shortHand || undefined, moreInfo: moreInfo || undefined });
   }
   writeFile(
     "src/resources/licenses.json",
