@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/filiptronicek/parse-czech-phone-number.git"
+    "url": "git+https://github.com/filiptronicek/osi-license-checker.git"
   },
   "author": "Filip Troníček",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/filiptronicek/parse-czech-phone-number/issues"
+    "url": "https://github.com/filiptronicek/osi-license-checkerr/issues"
   },
-  "homepage": "https://github.com/filiptronicek/parse-czech-phone-number#readme",
+  "homepage": "https://github.com/filiptronicek/osi-license-checker#readme",
   "devDependencies": {
     "@types/jest": "^27.0.2",
     "@types/request-promise": "^4.1.48",
