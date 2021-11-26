@@ -1,4 +1,4 @@
-import {checkShorthand, checkFullName} from "../src";
+import { checkShorthand, checkFullName } from "../src";
 
 test("MIT works", () => {
     expect(checkShorthand("MIT")).toBeTruthy();
