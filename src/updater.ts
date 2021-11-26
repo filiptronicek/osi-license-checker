@@ -10,15 +10,15 @@ rp(url).then((html: BasicAcceptedElems<Node>) => {
     const currentEl = $(child);
     const currentAnchor = $("a", currentEl.html());
 
-    const fullName = currentAnchor.text().split("(")[0].trim();
+    const name = currentAnchor.text().split("(")[0].trim();
     const shortHand = currentAnchor
       .text()
-      .replace(fullName, "")
+      .replace(name, "")
       .trim()
       .replace("(", "")
       .replace(")", "");
 
-    licenses.push({ fullName, id: shortHand });
+    licenses.push({ name, id: shortHand || undefined });
   }
   writeFile(
     "src/resources/licenses.json",

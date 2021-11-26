@@ -4,11 +4,11 @@ interface License {
      * @example MIT License
      * @example Apache License 2.0
      */
-    fullName: string;
+    name: string;
     /**
      * The SPDX License Identifier
      * @example MIT
      * @example Apache-2.0
      */
-    id: string;
+    id?: string;
 }

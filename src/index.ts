@@ -9,6 +9,6 @@ export const checkShorthand = (askedFor: string) => {
 }
 
 export const checkFullName = (askedFor: string) => {
-    const queriedLicense = licenseData.find((license) => askedFor === license.fullName);
+    const queriedLicense = licenseData.find((license) => askedFor === license.name);
     return !!queriedLicense;
 }
