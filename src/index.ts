@@ -19,7 +19,7 @@ export const checkShorthand = (askedFor: string, additionalLicenses: License[] =
     if (askedFor === "") return false;
     const combinedLicenses = [...licenseData, ...additionalLicenses];
     const queriedLicense = combinedLicenses.find((license) => askedFor === license.id);
-    return !!queriedLicense;
+    return queriedLicense !== undefined;
 }
 
 /**
@@ -39,5 +39,5 @@ export const checkShorthand = (askedFor: string, additionalLicenses: License[] =
 export const checkFullName = (askedFor: string, additionalLicenses: License[] = []) => {
     const combinedLicenses = [...licenseData, ...additionalLicenses];
     const queriedLicense = combinedLicenses.find((license) => askedFor === license.name);
-    return !!queriedLicense;
+    return queriedLicense !== undefined;
 }
