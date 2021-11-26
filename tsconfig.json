@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
+    "declaration": true,
     "downlevelIteration": true,
     "outDir": "dist",
     "lib": [
@@ -9,7 +10,8 @@
     "sourceMap": true
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts",
+    "types.d.ts"
   ],
   "ts-node": {
     "files": true
