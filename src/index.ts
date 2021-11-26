@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-const licenseData: License[] = JSON.parse(fs.readFileSync('./src/resources/licenses.json', 'utf8'));
+const licenseData: License[] = JSON.parse(fs.readFileSync(`${__dirname}/../src/resources/licenses.json`, 'utf8'));
 
 export const checkShorthand = (askedFor: string) => {
     if (askedFor === "") return false;
