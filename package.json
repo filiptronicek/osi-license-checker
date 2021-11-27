@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/filiptronicek/osi-license-checker#readme",
   "devDependencies": {
+    "@supabase/doctest-js": "^0.1.0",
     "@types/jest": "^27.0.2",
+    "@types/node-fetch": "^2.5.12",
     "cheerio": "^1.0.0-rc.10",
     "jest": "^27.3.1",
     "node-fetch": "2.6.6",
@@ -27,8 +29,5 @@
     "ts-node": "^10.4.0",
     "typescript": "^4.4.4"
   },
-  "dependencies": {
-    "@supabase/doctest-js": "^0.1.0",
-    "@types/node-fetch": "^2.5.12"
-  }
+  "dependencies": {}
 }
