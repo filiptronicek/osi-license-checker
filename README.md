@@ -34,3 +34,7 @@ import { checkFullName } from 'osi-license-checker';
 console.log(checkFullName("MIT")); // => false
 console.log(checkFullName("MIT License")); // => true
 ```
+
+## Alternatives
+
+- https://github.com/jslicense/spdx-is-osi.js lacks the ability to lookup full license names, but has many features this package doesn't provide, like looking up dual or double licenses.
